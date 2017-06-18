@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 
-#define _GNU_SOURCE // for fdprintf
 #include <inttypes.h>
 #include <system/camera_metadata.h>
 #include <camera_metadata_hidden.h>
